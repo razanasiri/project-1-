@@ -1,10 +1,10 @@
 # project-1-
 ### Table of Contents:
-## Installation
-## Project Motivation
-## File Descriptions
-## Results
-## Licensing, Authors, and Acknowledgements
+### Installation
+### Project Motivation
+### File Descriptions
+### Results
+### Licensing, Authors, and Acknowledgements
 
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
