@@ -1,6 +1,5 @@
 # project-1-
 ### Table of Contents:
-
 ## Installation
 ## Project Motivation
 ## File Descriptions
